@@ -1,5 +1,5 @@
 <div>
-  <img style="height: 96px;" src="https://user-images.githubusercontent.com/1185398/99874358-51ee1600-2c22-11eb-9cb0-055c622cf31e.png">
+  <img height="96px" src="https://assets-zeta.vercel.app/snippets/docker.png">
 </div>
 
 ---
@@ -41,7 +41,5 @@ EXPOSE 4567
 ENTRYPOINT ["ssserver"]
 ```
 
-**Installation**
-
-- [How To Install and Use Docker on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
-- [How To Install and Use Docker Compose on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
+- [x] [How To Install and Use Docker on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+- [x] [How To Install and Use Docker Compose on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
