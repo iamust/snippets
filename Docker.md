@@ -1,8 +1,4 @@
-<div>
-  <img height="96px" src="https://assets-zeta.vercel.app/snippets/docker.png">
-</div>
-
----
+# Docker
 
 ```
 sudo systemctl status docker

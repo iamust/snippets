@@ -1,8 +1,4 @@
-<div>
-  <img height="96px" src="https://assets-zeta.vercel.app/snippets/homebrew.png">
-</div>
-
----
+# Homebrew
 
 ```
 brew home
